@@ -1,0 +1,17 @@
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/bin/Debug/net8.0/EngiePrice.Infrastructure.deps.json
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/bin/Debug/net8.0/EngiePrice.Infrastructure.dll
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/bin/Debug/net8.0/EngiePrice.Infrastructure.pdb
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/obj/Debug/net8.0/EngiePrice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/obj/Debug/net8.0/EngiePrice.Infrastructure.AssemblyInfoInputs.cache
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/obj/Debug/net8.0/EngiePrice.Infrastructure.AssemblyInfo.cs
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/obj/Debug/net8.0/EngiePrice.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/obj/Debug/net8.0/EngiePrice.Infrastructure.dll
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/obj/Debug/net8.0/refint/EngiePrice.Infrastructure.dll
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/obj/Debug/net8.0/EngiePrice.Infrastructure.pdb
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/obj/Debug/net8.0/ref/EngiePrice.Infrastructure.dll
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/bin/Debug/net8.0/EngiePrice.Application.dll
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/bin/Debug/net8.0/EngiePrice.Domain.dll
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/bin/Debug/net8.0/EngiePrice.Application.pdb
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/bin/Debug/net8.0/EngiePrice.Domain.pdb
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/obj/Debug/net8.0/EngiePrice.Infrastructure.csproj.AssemblyReference.cache
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/obj/Debug/net8.0/EngiePrice.Infrastructure.csproj.CopyComplete

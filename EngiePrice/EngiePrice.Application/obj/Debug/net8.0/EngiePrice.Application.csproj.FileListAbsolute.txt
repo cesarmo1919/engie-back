@@ -1,0 +1,15 @@
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/bin/Debug/net8.0/EngiePrice.Application.deps.json
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/bin/Debug/net8.0/EngiePrice.Application.dll
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/bin/Debug/net8.0/EngiePrice.Application.pdb
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/obj/Debug/net8.0/EngiePrice.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/obj/Debug/net8.0/EngiePrice.Application.AssemblyInfoInputs.cache
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/obj/Debug/net8.0/EngiePrice.Application.AssemblyInfo.cs
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/obj/Debug/net8.0/EngiePrice.Application.csproj.CoreCompileInputs.cache
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/obj/Debug/net8.0/EngiePrice.Application.dll
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/obj/Debug/net8.0/refint/EngiePrice.Application.dll
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/obj/Debug/net8.0/EngiePrice.Application.pdb
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/obj/Debug/net8.0/ref/EngiePrice.Application.dll
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/bin/Debug/net8.0/EngiePrice.Domain.dll
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/bin/Debug/net8.0/EngiePrice.Domain.pdb
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/obj/Debug/net8.0/EngiePrice.Application.csproj.AssemblyReference.cache
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/obj/Debug/net8.0/EngiePrice.Application.csproj.CopyComplete

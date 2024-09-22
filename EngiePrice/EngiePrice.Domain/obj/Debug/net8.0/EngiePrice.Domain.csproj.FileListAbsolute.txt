@@ -1,0 +1,11 @@
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/bin/Debug/net8.0/EngiePrice.Domain.deps.json
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/bin/Debug/net8.0/EngiePrice.Domain.dll
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/bin/Debug/net8.0/EngiePrice.Domain.pdb
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/obj/Debug/net8.0/EngiePrice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/obj/Debug/net8.0/EngiePrice.Domain.AssemblyInfoInputs.cache
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/obj/Debug/net8.0/EngiePrice.Domain.AssemblyInfo.cs
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/obj/Debug/net8.0/EngiePrice.Domain.csproj.CoreCompileInputs.cache
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/obj/Debug/net8.0/EngiePrice.Domain.dll
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/obj/Debug/net8.0/refint/EngiePrice.Domain.dll
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/obj/Debug/net8.0/EngiePrice.Domain.pdb
+/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/obj/Debug/net8.0/ref/EngiePrice.Domain.dll

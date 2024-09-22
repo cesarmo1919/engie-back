@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "EngiePrice.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EngiePrice.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EngiePrice.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EngiePrice.Domain/1.0.0": {
+      "type": "project",
+      "path": "../EngiePrice.Domain/EngiePrice.Domain.csproj",
+      "msbuildProject": "../EngiePrice.Domain/EngiePrice.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "EngiePrice.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/naderlaroussi/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/EngiePrice.Application.csproj",
+      "projectName": "EngiePrice.Application",
+      "projectPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/EngiePrice.Application.csproj",
+      "packagesPath": "/Users/naderlaroussi/.nuget/packages/",
+      "outputPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/naderlaroussi/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/EngiePrice.Domain.csproj": {
+              "projectPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/EngiePrice.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Api/EngiePrice.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Api/EngiePrice.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Api/EngiePrice.Api.csproj",
+        "projectName": "EngiePrice.Api",
+        "projectPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Api/EngiePrice.Api.csproj",
+        "packagesPath": "/Users/naderlaroussi/.nuget/packages/",
+        "outputPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/naderlaroussi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/EngiePrice.Application.csproj": {
+                "projectPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/EngiePrice.Application.csproj"
+              },
+              "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/EngiePrice.Infrastructure.csproj": {
+                "projectPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/EngiePrice.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/EngiePrice.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/EngiePrice.Application.csproj",
+        "projectName": "EngiePrice.Application",
+        "projectPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/EngiePrice.Application.csproj",
+        "packagesPath": "/Users/naderlaroussi/.nuget/packages/",
+        "outputPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/naderlaroussi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/EngiePrice.Domain.csproj": {
+                "projectPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/EngiePrice.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/EngiePrice.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/EngiePrice.Domain.csproj",
+        "projectName": "EngiePrice.Domain",
+        "projectPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/EngiePrice.Domain.csproj",
+        "packagesPath": "/Users/naderlaroussi/.nuget/packages/",
+        "outputPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/naderlaroussi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/EngiePrice.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/EngiePrice.Infrastructure.csproj",
+        "projectName": "EngiePrice.Infrastructure",
+        "projectPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/EngiePrice.Infrastructure.csproj",
+        "packagesPath": "/Users/naderlaroussi/.nuget/packages/",
+        "outputPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/naderlaroussi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/EngiePrice.Application.csproj": {
+                "projectPath": "/Users/naderlaroussi/work/engie/back/EngiePrice/EngiePrice.Application/EngiePrice.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

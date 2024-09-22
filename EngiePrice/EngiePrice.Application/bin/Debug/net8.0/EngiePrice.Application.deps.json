@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EngiePrice.Application/1.0.0": {
+        "dependencies": {
+          "EngiePrice.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EngiePrice.Application.dll": {}
+        }
+      },
+      "EngiePrice.Domain/1.0.0": {
+        "runtime": {
+          "EngiePrice.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EngiePrice.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EngiePrice.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
